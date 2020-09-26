@@ -7,4 +7,8 @@ public class TestGit1 {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+
+    public void sayHello(){
+        System.out.println("hello。。。。");
+    }
 }
