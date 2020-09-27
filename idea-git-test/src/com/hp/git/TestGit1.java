@@ -6,6 +6,8 @@ public class TestGit1 {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+        //克隆后添加注释
     }
 
     public void sayHello(){
